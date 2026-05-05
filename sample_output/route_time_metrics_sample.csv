@@ -1,0 +1,36 @@
+event_date,location_id,region,route_id,service_type,route_group,operation_type,service_group,planned_service_time,actual_service_time,planned_travel_time,actual_travel_time,planned_total_time,actual_total_time,service_time_variance,travel_time_variance,total_time_variance,unit_count,planned_time,actual_time,paid_time,under_utilized_flag,route_count,split_flag,active_time,year_week
+2026-02-02,LOC001,North,R001,Standard,GroupA,Core Operations,Standard Route,120,118,60,62,180,180,2,-2,0,45,200,190,210,0,1,0,170,2026-06
+2026-02-02,LOC002,North,R002,Standard,GroupA,Core Operations,Standard Route,115,120,55,60,170,180,-5,-5,-10,42,190,185,210,0,1,0,165,2026-06
+2026-02-02,LOC003,South,R003,Assisted,GroupB,Specialized Operations,Assisted Route,150,160,70,75,220,235,-10,-5,-15,50,230,225,250,0,1,1,210,2026-06
+
+2026-02-09,LOC001,North,R004,Standard,GroupA,Core Operations,Standard Route,120,130,60,70,180,200,-10,-10,-20,46,200,195,210,1,1,0,175,2026-07
+2026-02-09,LOC002,North,R005,Expedited,GroupC,Specialized Operations,Expedited Route,130,140,75,85,205,225,-10,-10,-20,48,220,210,240,1,1,0,200,2026-07
+2026-02-09,LOC003,South,R006,Assisted,GroupB,Specialized Operations,Assisted Route,160,150,80,75,240,225,10,5,15,52,250,235,270,0,1,1,215,2026-07
+
+2026-02-16,LOC001,North,R007,Standard,GroupA,Core Operations,Standard Route,120,122,60,63,180,185,-2,-3,-5,45,200,190,210,0,1,0,170,2026-08
+2026-02-16,LOC002,North,R008,Expedited,GroupC,Specialized Operations,Expedited Route,140,150,70,80,210,230,-10,-10,-20,49,230,225,250,1,1,0,205,2026-08
+2026-02-16,LOC003,South,R009,Assisted,GroupB,Specialized Operations,Assisted Route,155,160,85,90,240,250,-5,-5,-10,51,255,245,275,0,1,1,230,2026-08
+
+2026-02-23,LOC001,North,R010,Standard,GroupA,Core Operations,Standard Route,120,140,60,80,180,220,-20,-20,-40,44,200,210,210,1,1,0,185,2026-09
+2026-02-23,LOC002,North,R011,Expedited,GroupC,Specialized Operations,Expedited Route,135,145,75,90,210,235,-10,-15,-25,50,225,230,240,1,1,0,210,2026-09
+2026-02-23,LOC003,South,R012,Assisted,GroupB,Specialized Operations,Assisted Route,160,180,85,100,245,280,-20,-15,-35,53,260,270,275,1,1,1,250,2026-09
+
+2026-03-02,LOC001,North,R013,Standard,GroupA,Core Operations,Standard Route,120,118,60,62,180,180,2,-2,0,45,200,190,210,0,1,0,170,2026-10
+2026-03-02,LOC002,North,R014,Standard,GroupA,Core Operations,Standard Route,115,105,55,50,170,155,10,5,15,40,180,170,200,0,1,0,150,2026-10
+2026-03-02,LOC003,South,R015,Assisted,GroupB,Specialized Operations,Assisted Route,150,170,70,80,220,250,-20,-10,-30,50,240,230,260,1,1,1,210,2026-10
+
+2026-03-09,LOC001,North,R016,Standard,GroupA,Core Operations,Standard Route,115,120,65,60,180,180,-5,5,0,42,190,185,210,0,1,0,170,2026-11
+2026-03-09,LOC002,North,R017,Expedited,GroupC,Specialized Operations,Expedited Route,130,150,75,95,205,245,-20,-20,-40,48,220,230,240,1,1,0,205,2026-11
+2026-03-09,LOC003,South,R018,Assisted,GroupB,Specialized Operations,Assisted Route,160,155,80,75,240,230,5,5,10,52,250,240,270,0,1,1,220,2026-11
+
+2026-03-16,LOC001,North,R019,Standard,GroupA,Core Operations,Standard Route,120,135,60,70,180,205,-15,-10,-25,46,200,190,210,1,1,0,175,2026-12
+2026-03-16,LOC002,North,R020,Expedited,GroupC,Specialized Operations,Expedited Route,140,145,70,75,210,220,-5,-5,-10,49,230,220,250,1,1,0,205,2026-12
+2026-03-16,LOC003,South,R021,Assisted,GroupB,Specialized Operations,Assisted Route,155,165,85,95,240,260,-10,-10,-20,51,255,250,275,1,1,1,235,2026-12
+
+2026-03-23,LOC001,North,R022,Standard,GroupA,Core Operations,Standard Route,120,118,60,62,180,180,2,-2,0,45,200,190,210,0,1,0,170,2026-13
+2026-03-23,LOC002,North,R023,Standard,GroupA,Core Operations,Standard Route,115,120,55,60,170,180,-5,-5,-10,42,190,185,210,0,1,0,165,2026-13
+2026-03-23,LOC003,South,R024,Assisted,GroupB,Specialized Operations,Assisted Route,150,160,70,75,220,235,-10,-5,-15,50,230,225,250,0,1,1,210,2026-13
+
+2026-03-30,LOC001,North,R025,Standard,GroupA,Core Operations,Standard Route,120,140,60,85,180,225,-20,-25,-45,45,200,210,210,1,1,0,185,2026-14
+2026-03-30,LOC002,North,R026,Expedited,GroupC,Specialized Operations,Expedited Route,135,155,75,95,210,250,-20,-20,-40,48,225,235,240,1,1,0,210,2026-14
+2026-03-30,LOC003,South,R027,Assisted,GroupB,Specialized Operations,Assisted Route,160,185,85,105,245,290,-25,-20,-45,53,260,275,275,1,1,1,255,2026-14
